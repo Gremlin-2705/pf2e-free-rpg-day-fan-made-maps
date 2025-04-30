@@ -1,5 +1,5 @@
 # PF2e Free RPG Day fan-made maps
-This Foundy-VTT module contains fan-made maps based on Pathfinder 2e Free RPG Day Adventures, all maps have walls and lights configured and are ready for use.<br>
+This Foundry-VTT module contains fan-made maps based on Pathfinder 2e Free RPG Day Adventures, all maps have walls and lights configured and are ready for use.<br>
 Maps are provided for the following adventures: <br>
 * The Great Toy Heist <br>
 * Little Trouble in Big Absalom <br>
@@ -7,7 +7,7 @@ Maps are provided for the following adventures: <br>
 * A Few Flowers More <br>
 
 This module does not contain any official Paizo material or conetent, the Free RPG Day Adventures can be found on the Official website <a href="https://paizo.com/store/pathfinder/adventures/standalone/freeRPGDay">here</a>. <br>
-This module is designed to be used with <a href="https://foundryvtt.com/">FoundyVTT</a>
+This module is designed to be used with <a href="https://foundryvtt.com/">FoundryVTT</a>
 
 # Credit
 
