@@ -6,7 +6,7 @@ Maps are provided for the following adventures: <br>
 * A Fistful of Flowers <br>
 * A Few Flowers More <br>
 
-This module does not contain any official Paizo material or conetent, the Free RPG Day Adventures can be found on the Official website <a href="https://paizo.com/store/pathfinder/adventures/standalone/freeRPGDay">here</a>. <br>
+This module does not contain any official Paizo material or content, the Free RPG Day Adventures can be found on the Official website <a href="https://paizo.com/store/pathfinder/adventures/standalone/freeRPGDay">here</a>. <br>
 This module is designed to be used with <a href="https://foundryvtt.com/">FoundryVTT</a>.
 <br> <br>
 Map Preview: <br>
